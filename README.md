@@ -1,7 +1,7 @@
 # sshalt
 Simple Netmiko wrapper for misconfigured devices
 
-Meant to deal with devices that give this error.  This error is easily fixed by regerating a host key on the offending device, but you don't always have the permissions, technical or otherwise, to do that.
+Meant to deal with devices that give this error.  This error is easily fixed by regenerating a host key on the offending device, but you don't always have the permissions, technical or otherwise, to do that.
 
     Bad server host key: Invalid key length
 
